@@ -1,0 +1,19 @@
+{
+  "name": "open_node_purchases_to_sheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wayne Hatter",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^4.2.0",
+    "axios": "^0.26.0",
+    "express": "^4.17.3",
+    "googleapis": "^95.0.0",
+    "jsdom": "^19.0.0",
+    "node-fetch": "^3.2.0"
+  }
+}
